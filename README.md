@@ -1,3 +1,3 @@
 # Opinion Mining Yelp Hotel Reviews
-For educational purposes only. Non-business. Just for fun.
+For educational purposes only.
 Using Beautifulsoup and requests.
